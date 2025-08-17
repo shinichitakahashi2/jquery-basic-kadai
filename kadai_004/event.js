@@ -3,7 +3,7 @@ $(window).on('load',function(){
   });
 
 $(window).on('scroll',function(){
-    console.log('scrollベントが発生しました');
+    console.log('scrollイベントが発生しました');
 });
 
 
