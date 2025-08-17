@@ -1,1 +1,1 @@
-$('h1').addClass('heading');
+$('#target').addClass('heading');
